@@ -7,3 +7,7 @@ There are no rules, you may use these themes for commercial or personal. You may
 ## Deepslate
 ![preview](https://media.discordapp.net/attachments/900275883124858921/1142196186321789009/image.png?width=1042&height=641)
 Designed to look and feel modern, dark and cozy. Minimal changes from standard eGui. [View File](https://raw.githubusercontent.com/scruffykat/eGui-Themes/main/themes/deep_slate.rs)
+
+## Bubbly
+![preview](https://cdn.discordapp.com/attachments/1132311126223372423/1142507265451110591/image.png)
+Designed for a slightly old-styled look with "bubbly" UI elements. [View File]()
