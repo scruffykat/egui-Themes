@@ -10,4 +10,4 @@ Designed to look and feel modern, dark and cozy. Minimal changes from standard e
 
 ## Bubbly
 ![preview](https://cdn.discordapp.com/attachments/1132311126223372423/1142507265451110591/image.png)
-Designed for a slightly old-styled look with "bubbly" UI elements. [View File]()
+Designed for a slightly old-styled look with "bubbly" UI elements. [View File](https://raw.githubusercontent.com/scruffykat/egui-Themes/main/themes/bubbly.rs)
