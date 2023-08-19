@@ -1,4 +1,4 @@
-# eGui-Themes
+# egui-Themes
 A collection of my themes, free for anyone to use. Most themes are made with [egui-themer](https://github.com/grantshandy/egui-themer)
 
 ## Full permissions to do what you want
