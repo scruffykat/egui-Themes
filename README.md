@@ -17,4 +17,4 @@ Designed for a slightly old-styled look with "bubbly" UI elements. [View File](h
 ## Plasma
 ![preview](https://cdn.discordapp.com/attachments/1132311126223372423/1145070851008503888/image.png)
 
-Plasma is a modern Visual Studio inspired theme. **This theme was created for my Game Engine, [Phancid](https://github.com/Phancid), but this version can be used by anyone. ** [View File](https://raw.githubusercontent.com/scruffykat/egui-Themes/main/themes/plasma.rs)
+Plasma is a modern Visual Studio inspired theme. **This theme was created for my Game Engine, [Phancid](https://github.com/Phancid), but this version can be used by anyone** [View File](https://raw.githubusercontent.com/scruffykat/egui-Themes/main/themes/plasma.rs)
